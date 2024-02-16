@@ -69,7 +69,7 @@ h4 {
 /* header */
 
 header {
-  background: url("/images/space.jpg") no-repeat;
+  background: url("https://pabitrabanerjee.me/Our-Solar-System/images/space.jpg") no-repeat;
   background-size: cover;
   height: 100vh;
   overflow: hidden;
@@ -320,7 +320,7 @@ details ul li:hover .fa-shuttle-space {
 }
 
 .venus {
-  background: url("/images/venus.png") no-repeat;
+  background: url("https://pabitrabanerjee.me/Our-Solar-System/images/venus.png") no-repeat;
   background-size: 100%;
   box-shadow: 0 -8px 15px rgba(199, 152, 113, 0.5), -50px -50px 50px #000 inset,
     0 10px 15px #000;
@@ -328,7 +328,7 @@ details ul li:hover .fa-shuttle-space {
 }
 
 .mercury {
-  background: url("/images/mercury.png") no-repeat;
+  background: url("https://pabitrabanerjee.me/Our-Solar-System/images/mercury.png") no-repeat;
   background-size: 100%;
   box-shadow: 0 -10px 15px rgba(117, 66, 25, 0.5), -50px -50px 50px #000 inset,
     0 10px 15px #000;
@@ -336,7 +336,7 @@ details ul li:hover .fa-shuttle-space {
 }
 
 .earth {
-  background: url("/images/earth.png") no-repeat;
+  background: url("https://pabitrabanerjee.me/Our-Solar-System/images/earth.png") no-repeat;
   background-size: 100%;
   box-shadow: 0 -10px 15px rgba(94, 136, 190, 0.5), -50px -50px 50px #000 inset,
     0 10px 15px #000;
@@ -344,7 +344,7 @@ details ul li:hover .fa-shuttle-space {
 }
 
 .mars {
-  background: url("/images/mars.png") no-repeat;
+  background: url("https://pabitrabanerjee.me/Our-Solar-System/images/mars.png") no-repeat;
   background-size: 100%;
   box-shadow: -3px -10px 15px rgba(238, 75, 43, 0.7),
     -50px -50px 50px #000 inset, 0 10px 15px #000;
@@ -352,7 +352,7 @@ details ul li:hover .fa-shuttle-space {
 }
 
 .jupiter {
-  background: url("/images/jupiter.png") no-repeat;
+  background: url("https://pabitrabanerjee.me/Our-Solar-System/images/jupiter.png") no-repeat;
   background-size: 100%;
   box-shadow: 0 -8px 15px rgba(199, 152, 113, 0.5), -50px -50px 50px #000 inset,
     0 10px 15px #000;
@@ -365,13 +365,13 @@ details ul li:hover .fa-shuttle-space {
   height: 100%;
   margin: 0;
   position: relative;
-  background: url("/images/saturn.png") no-repeat;
+  background: url("https://pabitrabanerjee.me/Our-Solar-System/images/saturn.png") no-repeat;
   background-size: 100%;
   animation: rotate 1.5s ease-in 1;
 }
 
 .uranus {
-  background: url("/images/uranus.png") no-repeat;
+  background: url("https://pabitrabanerjee.me/Our-Solar-System/images/uranus.png") no-repeat;
   background-size: 100%;
   box-shadow: 0 -10px 15px rgba(94, 136, 190, 0.5), -50px -50px 50px #000 inset,
     0 10px 15px #000;
@@ -379,7 +379,7 @@ details ul li:hover .fa-shuttle-space {
 }
 
 .neptune {
-  background: url("/images/neptune.png") no-repeat;
+  background: url("https://pabitrabanerjee.me/Our-Solar-System/images/neptune.png") no-repeat;
   background-size: 100%;
   box-shadow: 0 -10px 15px rgba(94, 136, 190, 0.5), -50px -50px 50px #000 inset,
     0 10px 15px #000;
@@ -450,7 +450,7 @@ details ul li:hover .fa-shuttle-space {
 
 .planet-info {
   color: #fff;
-  background: url("/images/space2.jpg") no-repeat;
+  background: url("https://pabitrabanerjee.me/Our-Solar-System/images/space2.jpg") no-repeat;
   background-size: cover;
   display: none;
   padding: 5em 0;
@@ -987,8 +987,8 @@ img {
 
 footer {
   height: 50vh;
-  background: url("/images/land.png") 50% 100%/ 100% 100%,
-    url("/images/moon.png") 50% 100% / auto,
+  background: url("https://pabitrabanerjee.me/Our-Solar-System/images/land.png") 50% 100%/ 100% 100%,
+    url("https://pabitrabanerjee.me/Our-Solar-System/images/moon.png") 50% 100% / auto,
     radial-gradient(
       80% 100% at 50% 70%,
       rgba(255, 255, 255, 0.199) 10%,
@@ -1217,8 +1217,8 @@ footer {
   }
 
   footer {
-    background: url(/images/land.png) 50% 100%/ 100% 80%,
-      url(/images/moon.png) 50% 100% / 35% 60%,
+    background: url(https://pabitrabanerjee.me/Our-Solar-System/images/land.png) 50% 100%/ 100% 80%,
+      url(https://pabitrabanerjee.me/Our-Solar-System/images/moon.png) 50% 100% / 35% 60%,
       radial-gradient(
         80% 100% at 50% 70%,
         rgba(255, 255, 255, 0.199) 10%,
@@ -1525,8 +1525,8 @@ footer {
   }
 
   footer {
-    background: url(/images/land.png) 50% 100%/ 100% 80%,
-      url(/images/moon.png) 50% 100% / 60% 60%,
+    background: url(https://pabitrabanerjee.me/Our-Solar-System/images/land.png) 50% 100%/ 100% 80%,
+      url(https://pabitrabanerjee.me/Our-Solar-System/images/moon.png) 50% 100% / 60% 60%,
       radial-gradient(
         80% 100% at 50% 70%,
         rgba(255, 255, 255, 0.199) 10%,
@@ -1680,8 +1680,8 @@ footer {
   }
 
   footer {
-    background: url(/images/land.png) 50% 100%/ 100% 70%,
-      url(/images/moon.png) 50% 100% / 60% 50%,
+    background: url(https://pabitrabanerjee.me/Our-Solar-System/images/land.png) 50% 100%/ 100% 70%,
+      url(https://pabitrabanerjee.me/Our-Solar-System/images/moon.png) 50% 100% / 60% 50%,
       radial-gradient(
         80% 50% at 50% 50%,
         rgba(255, 255, 255, 0.199) 10%,
@@ -1714,8 +1714,8 @@ footer {
   }
 
   footer {
-    background: url(/images/land.png) 50% 100%/ 100% 60%,
-      url(/images/moon.png) 50% 100% / 60% 45%,
+    background: url(https://pabitrabanerjee.me/Our-Solar-System/images/land.png) 50% 100%/ 100% 60%,
+      url(https://pabitrabanerjee.me/Our-Solar-System/images/moon.png) 50% 100% / 60% 45%,
       radial-gradient(
         80% 50% at 50% 50%,
         rgba(255, 255, 255, 0.199) 10%,
@@ -1761,12 +1761,3 @@ footer {
 ::-webkit-scrollbar-thumb:hover {
   background: linear-gradient(to right, #ff6666, #ffcc00); 
 }
-
-/* For Firefox */
-/* Track */
-scrollbar-width: thin;
-scrollbar-color: linear-gradient(to right, #ffcc00, #ff6666) #f1f1f1;
-
-/* Handle */
-scrollbar-base-color: #c2c2c2;
-scrollbar-arrow-color: #ff6666;
