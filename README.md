@@ -2,7 +2,7 @@
 
  Solar System is a responsive webpage, I have made to show my love for astronomy :heart_eyes: I have used HTML, CSS and JavaScript.
  
- Live link :- https://pb2204-our-solar-system.vercel.app
+ Live link :- https://pabitrabanerjee.me/Our-Solar-System
  
  ## Screenshots :point_down:
  Desktop View | Mobile View
